@@ -27,7 +27,7 @@ export default function Navbar() {
             </Link>
 
             <Link
-            href="/contact-me"
+            href="/contact"
             className="hover:underline"
             >
               Kontakt meg
